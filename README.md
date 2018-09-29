@@ -1,1 +1,2 @@
 # Bluetooth-based-bot
+It consists of Arduino nano, Bluetooth Module HC-05 and two geared motors. As we know that bluetooth module communicates with arduino serially using Rx(0) and Tx(1) pin. Bluetooth module is connect with our android app called BT-car, link for this app will provided to u in the more files section.Using this app I easily get the Char values from the application like '1' '2' etc.Using this characters I took the conditions for moving the ot in all direction.
